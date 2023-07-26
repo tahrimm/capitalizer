@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = (props) => {
   return (
-    <ooter className={`bg-${props.mode} text-center text-lg-start`}>
+    <footer className={`bg-${props.mode} text-center text-lg-start`}>
       <div className="container p-4" style={{color: props.mode==='dark'?'white':'#1f2327'}}>
         <div className="row">
           <div className="col-lg-4 col-md-12 mb-4 mb-md-0">
@@ -53,7 +53,7 @@ const Footer = (props) => {
         </div>
       </div>
       
-    </ooter>
+    </footer>
   );
 };
 
