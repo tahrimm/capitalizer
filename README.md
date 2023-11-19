@@ -15,7 +15,7 @@ This React web application provides text manipulation and analysis functionaliti
 To run this project, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/tahrimm/capitalizer.git
 cd your-repository
 ```
 
